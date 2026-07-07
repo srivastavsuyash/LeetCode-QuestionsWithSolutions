@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -46,9 +47,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
