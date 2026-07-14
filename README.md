@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
